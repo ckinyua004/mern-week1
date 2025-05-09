@@ -1,0 +1,15 @@
+🗓️ 30-Day MERN Stack Project Plan
+🔰 Week 1: Foundations – React + Node + MongoDB Basics
+Day 1: Set up MERN dev environment (Node, MongoDB, Postman, React)
+
+Day 2: Create a basic Express server
+
+Day 3: Build a simple REST API (GET/POST)
+
+Day 4: Connect MongoDB with Mongoose
+
+Day 5: Build your first schema and model
+
+Day 6: Create a React app with functional components
+
+Day 7: Make your first API call from React to Express
